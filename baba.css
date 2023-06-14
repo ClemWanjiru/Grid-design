@@ -1,0 +1,16 @@
+.left {
+    background-color: brown;
+    height: 700px;
+    margin: 5px;
+}
+.main{
+    background-color: coral;
+    height: 700px;
+    margin: 5px;
+    
+}
+.right{
+    background-color: crimson;
+    height: 700px;
+    margin:5px;
+}
